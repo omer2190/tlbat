@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "105980073132",
+    "project_id": "simply-delivery-39a77",
+    "storage_bucket": "simply-delivery-39a77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105980073132:android:34a14b9ab23cbf1c5c3b09",
+        "android_client_info": {
+          "package_name": "com.example.talabat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105980073132-6oea3ghh54lpama8jpbqhia30lfjoq6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXC84nUmcuYw4peuwZps84g-ayZRJ5p9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105980073132-6oea3ghh54lpama8jpbqhia30lfjoq6h.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105980073132-1bq03hbtl7mq8enlnlggseo2id7qdjo1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.talabat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
